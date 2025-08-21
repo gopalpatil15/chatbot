@@ -1,0 +1,141 @@
+The capital of India is New Delhi.
+The capital of France is Paris.
+The capital of Italy is Rome.
+The capital of Japan is Tokyo.
+The capital of USA is Washington, D.C..
+The capital of Russia is Moscow.
+The capital of United Kingdom is London.
+The capital of Germany is Berlin.
+The capital of Canada is Ottawa.
+The capital of Australia is Canberra.
+The capital of Brazil is Brasília.
+The capital of China is Beijing.
+The capital of Argentina is Buenos Aires.
+The capital of Spain is Madrid.
+The capital of Portugal is Lisbon.
+The capital of Mexico is Mexico City.
+The capital of Egypt is Cairo.
+The capital of Saudi Arabia is Riyadh.
+The capital of Turkey is Ankara.
+The capital of Greece is Athens.
+The capital of South Korea is Seoul.
+The capital of North Korea is Pyongyang.
+The capital of Pakistan is Islamabad.
+The capital of Bangladesh is Dhaka.
+The capital of Nepal is Kathmandu.
+The capital of Sri Lanka is Colombo.
+The capital of Thailand is Bangkok.
+The capital of Vietnam is Hanoi.
+The capital of Indonesia is Jakarta.
+The capital of Malaysia is Kuala Lumpur.
+The capital of Singapore is Singapore.
+The capital of Philippines is Manila.
+The capital of Afghanistan is Kabul.
+The capital of Iran is Tehran.
+The capital of Iraq is Baghdad.
+The capital of Israel is Jerusalem.
+The capital of Jordan is Amman.
+The capital of Lebanon is Beirut.
+The capital of Syria is Damascus.
+The capital of Qatar is Doha.
+The capital of UAE is Abu Dhabi.
+The capital of Oman is Muscat.
+The capital of Yemen is Sana'a.
+The capital of Kuwait is Kuwait City.
+The capital of Bahrain is Manama.
+The capital of Morocco is Rabat.
+The capital of Algeria is Algiers.
+The capital of Tunisia is Tunis.
+The capital of Sudan is Khartoum.
+The capital of Ethiopia is Addis Ababa.
+The capital of Kenya is Nairobi.
+The capital of Tanzania is Dodoma.
+The capital of Uganda is Kampala.
+The capital of Rwanda is Kigali.
+The capital of Nigeria is Abuja.
+The capital of Ghana is Accra.
+The capital of Ivory Coast is Yamoussoukro.
+The capital of Senegal is Dakar.
+The capital of Zimbabwe is Harare.
+The capital of Zambia is Lusaka.
+The capital of Malawi is Lilongwe.
+The capital of Mozambique is Maputo.
+The capital of Madagascar is Antananarivo.
+The capital of Chile is Santiago.
+The capital of Peru is Lima.
+The capital of Colombia is Bogotá.
+The capital of Venezuela is Caracas.
+The capital of Bolivia is Sucre.
+The capital of Paraguay is Asunción.
+The capital of Uruguay is Montevideo.
+The capital of Ecuador is Quito.
+The capital of Cuba is Havana.
+The capital of Jamaica is Kingston.
+The capital of Haiti is Port-au-Prince.
+The capital of Iceland is Reykjavik.
+The capital of Norway is Oslo.
+The capital of Sweden is Stockholm.
+The capital of Finland is Helsinki.
+The capital of Denmark is Copenhagen.
+The capital of Netherlands is Amsterdam.
+The capital of Belgium is Brussels.
+The capital of Switzerland is Bern.
+The capital of Austria is Vienna.
+The capital of Poland is Warsaw.
+The capital of Czech Republic is Prague.
+The capital of Slovakia is Bratislava.
+The capital of Hungary is Budapest.
+The capital of Croatia is Zagreb.
+The capital of Serbia is Belgrade.
+The capital of Romania is Bucharest.
+The capital of Bulgaria is Sofia.
+The capital of Lithuania is Vilnius.
+The capital of Latvia is Riga.
+The capital of Estonia is Tallinn.
+The capital of Belarus is Minsk.
+The capital of Ukraine is Kyiv.
+The capital of Kazakhstan is Astana.
+The capital of Uzbekistan is Tashkent.
+The capital of Turkmenistan is Ashgabat.
+The capital of Kyrgyzstan is Bishkek.
+The capital of Mongolia is Ulaanbaatar.
+The longest river in the world is the Nile.
+The largest desert in the world is the Sahara.
+The tallest mountain in the world is Mount Everest.
+The largest ocean in the world is the Pacific Ocean.
+The deepest ocean trench is the Mariana Trench.
+The largest island in the world is Greenland.
+The largest lake in the world is the Caspian Sea.
+The smallest country in the world is Vatican City.
+The longest wall in the world is the Great Wall of China.
+The hottest desert in the world is the Sahara.
+The national bird of India is the Peacock.
+The national animal of India is the Tiger.
+The national flower of India is the Lotus.
+The national sport of India is Hockey.
+The national fruit of India is Mango.
+The national bird of USA is the Bald Eagle.
+The national animal of USA is the Bison.
+The national flower of USA is the Rose.
+The national animal of China is the Giant Panda.
+The national bird of Japan is the Green Pheasant.
+The telephone was invented by Alexander Graham Bell.
+The light bulb was invented by Thomas Edison.
+The airplane was invented by the Wright brothers.
+Penicillin was discovered by Alexander Fleming.
+The World Wide Web was invented by Tim Berners-Lee.
+The steam engine was improved by James Watt.
+The radio was invented by Guglielmo Marconi.
+The periodic table was created by Dmitri Mendeleev.
+The printing press was invented by Johannes Gutenberg.
+The DNA double helix was discovered by Watson and Crick.
+The largest planet in the solar system is Jupiter.
+The smallest planet in the solar system is Mercury.
+The hottest planet in the solar system is Venus.
+The coldest planet in the solar system is Neptune.
+The red planet is Mars.
+The Earth revolves around the Sun in 365 days.
+The Moon revolves around the Earth in 27 days.
+The speed of light is approximately 299,792 km/s.
+The human body has 206 bones.
+The human heart has 4 chambers.
