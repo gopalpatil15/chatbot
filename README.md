@@ -1,4 +1,4 @@
-# 🤖 GK Chatbot (Assignment)
+# Chatbot (Assignment)
 
 This is a simple **General Knowledge chatbot** built with **Hugging Face Transformers**.  
 It can answer **basic GK questions** such as capitals, longest rivers, largest forests, etc., using a lightweight QA model (`distilbert-base-cased-distilled-squad`) and a knowledge base (`facts.txt`).  
@@ -85,4 +85,4 @@ gk-chatbot/
 ---
 
 
-"# chatbot" 
+"#Chatbot Assignment" 
